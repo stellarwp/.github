@@ -13,7 +13,7 @@ The most trusted plugins and people in WordPress.
 |---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | [container-contract](https://github.com/stellarwp/container-contract) | A contract for service container implementations.                                                         |
 | [db](https://github.com/stellarwp/db) | A WPDB wrapper and query builder library.                                                                 |
-| [installer](https://github.com/stellarwp/installer) | A library for installing / activating other plugins                                                       |
+| [installer](https://github.com/stellarwp/installer) | A library for installing / activating other plugins.                                                       |
 | [schema](https://github.com/stellarwp/schema) | A library for simplifying the creation, update, and field modification of custom tables within WordPress. |
 | [slic](https://github.com/stellarwp/slic) | A CLI command provides a containerized and consistent environment for running automated tests.            |
-| [validation](https://github.com/stellarwp/validation) | An end-to-end ready PHP validation library                                                                |
+| [validation](https://github.com/stellarwp/validation) | An end-to-end ready PHP validation library.                                                                |
