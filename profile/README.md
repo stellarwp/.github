@@ -9,11 +9,12 @@ The most trusted plugins and people in WordPress.
 
 ## Some of our open source libraries and tools
 
-| Name                                                                            | Description                                                                                               |
-|---------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| [container-contract](https://github.com/stellarwp/container-contract) | A contract for service container implementations.                                                         |
-| [db](https://github.com/stellarwp/db) | A WPDB wrapper and query builder library.                                                                 |
-| [installer](https://github.com/stellarwp/installer) | A library for installing / activating other plugins.                                                       |
+| Name | Description |
+|---|---|
+| [container-contract](https://github.com/stellarwp/container-contract) | A contract for service container implementations. |
+| [db](https://github.com/stellarwp/db) | A WPDB wrapper and query builder library. |
+| [field-conditions](https://github.com/stellarwp/field-conditions) | A set of serializable classes for handling conditional field logic in PHP |
+| [installer](https://github.com/stellarwp/installer) | A library for installing / activating other plugins. |
 | [schema](https://github.com/stellarwp/schema) | A library for simplifying the creation, update, and field modification of custom tables within WordPress. |
-| [slic](https://github.com/stellarwp/slic) | A CLI command provides a containerized and consistent environment for running automated tests.            |
-| [validation](https://github.com/stellarwp/validation) | An end-to-end ready PHP validation library.                                                                |
+| [slic](https://github.com/stellarwp/slic) | A CLI command provides a containerized and consistent environment for running automated tests. |
+| [validation](https://github.com/stellarwp/validation) | An end-to-end ready PHP validation library. |
