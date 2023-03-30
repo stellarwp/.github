@@ -12,6 +12,7 @@ The most trusted plugins and people in WordPress.
 | Name | Description |
 |---|---|
 | [container-contract](https://github.com/stellarwp/container-contract) | A contract for service container implementations. |
+| [dates](https://github.com/stellarwp/dates) | Date utility and class library. |
 | [db](https://github.com/stellarwp/db) | A WPDB wrapper and query builder library. |
 | [field-conditions](https://github.com/stellarwp/field-conditions) | A set of serializable classes for handling conditional field logic in PHP |
 | [installer](https://github.com/stellarwp/installer) | A library for installing / activating other plugins. |
