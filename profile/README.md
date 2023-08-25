@@ -11,6 +11,7 @@ The most trusted plugins and people in WordPress.
 
 | Name | Description |
 |---|---|
+| [assets](https://github.com/stellarwp/assets) | A library for managing asset registration and enqueuing in WordPress. |
 | [container-contract](https://github.com/stellarwp/container-contract) | A contract for service container implementations. |
 | [dates](https://github.com/stellarwp/dates) | A library with date utilities and classes. |
 | [db](https://github.com/stellarwp/db) | A WPDB wrapper and query builder library. |
