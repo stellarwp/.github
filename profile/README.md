@@ -19,6 +19,7 @@ The most trusted plugins and people in WordPress.
 | [field-conditions](https://github.com/stellarwp/field-conditions) | A set of serializable classes for handling conditional field logic in PHP |
 | [installer](https://github.com/stellarwp/installer) | A library for installing / activating other plugins. |
 | [models](https://github.com/stellarwp/models) | A library for creating data models |
+| [pipeline](https://github.com/stellarwp/pipeline) | A library for implementing a Pipeline / Command Design Pattern. |
 | [schema](https://github.com/stellarwp/schema) | A library for simplifying the creation, update, and field modification of custom tables within WordPress. |
 | [validation](https://github.com/stellarwp/validation) | An end-to-end ready PHP validation library. |
 
