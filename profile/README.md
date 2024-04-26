@@ -5,7 +5,7 @@
 
 The most trusted plugins and people in WordPress.
 
-[Give](https://givewp.com) | [IconicWP](https://iconicwp.com) | [iThemes](https://ithemes.com) | [Kadence](https://kadencewp.com) | [LearnDash](https://learndash.com) | [Orderable](https://orderable.com) | [Restrict Content Pro](https://restrictcontentpro.com) | [The Events Calendar](https://theeventscalendar.com)
+[Give](https://givewp.com) | [IconicWP](https://iconicwp.com) | [Kadence](https://kadencewp.com) | [LearnDash](https://learndash.com) | [Orderable](https://orderable.com) | [Restrict Content Pro](https://restrictcontentpro.com) | [SolidWP](https://solidwp.com) | [The Events Calendar](https://theeventscalendar.com)
 
 ## Libraries
 
