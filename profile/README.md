@@ -21,6 +21,7 @@ The most trusted plugins and people in WordPress.
 | [models](https://github.com/stellarwp/models) | A library for creating data models |
 | [pipeline](https://github.com/stellarwp/pipeline) | A library that implements the Chain of Responsibility pattern. |
 | [schema](https://github.com/stellarwp/schema) | A library for simplifying the creation, update, and field modification of custom tables within WordPress. |
+| [superglobals](https://github.com/stellarwp/superglobals) | A library that handles access to superglobals. |
 | [validation](https://github.com/stellarwp/validation) | An end-to-end ready PHP validation library. |
 
 ## Tools
