@@ -17,6 +17,8 @@ autolinks:
     url_template: 'https://stellarwp.atlassian.net/browse/GIVE-<num>'
   - key_prefix: 'IST-'
     url_template: 'https://stellarwp.atlassian.net/browse/IST-<num>'
+  - key_prefix: 'KAD-'
+    url_template: 'https://stellarwp.atlassian.net/browse/KAD-<num>'
   - key_prefix: 'LCA-'
     url_template: 'https://stellarwp.atlassian.net/browse/LCA-<num>'
   - key_prefix: 'LCB-'
