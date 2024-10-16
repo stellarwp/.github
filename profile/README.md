@@ -11,6 +11,7 @@ The most trusted plugins and people in WordPress.
 
 | Name | Description |
 |---|---|
+| [admin-notices](https://github.com/stellarwp/admin-notices) | A handy package for easily displaying admin notices in WordPress with simple to complex visibility conditions. |
 | [arrays](https://github.com/stellarwp/arrays) | A library for array manipulation. |
 | [assets](https://github.com/stellarwp/assets) | A library for managing asset registration and enqueuing in WordPress. |
 | [container-contract](https://github.com/stellarwp/container-contract) | A contract for service container implementations. |
