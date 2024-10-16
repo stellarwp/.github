@@ -11,18 +11,18 @@ The most trusted plugins and people in WordPress.
 
 | Name | Description |
 |---|---|
-| [admin-notices](https://github.com/stellarwp/admin-notices) | A library for displaying admin notices in WordPress with simple to complex visibility conditions. |
+| [admin-notices](https://github.com/stellarwp/admin-notices) | Display admin notices in WordPress with simple to complex visibility conditions. |
 | [arrays](https://github.com/stellarwp/arrays) | A library for array manipulation. |
-| [assets](https://github.com/stellarwp/assets) | A library for managing asset registration and enqueuing in WordPress. |
+| [assets](https://github.com/stellarwp/assets) | Manage style and JS registration and enqueuing with a fluent API. |
 | [container-contract](https://github.com/stellarwp/container-contract) | A contract for service container implementations. |
-| [dates](https://github.com/stellarwp/dates) | A library with date utilities and classes. |
+| [dates](https://github.com/stellarwp/dates) | Date utilities and classes. |
 | [db](https://github.com/stellarwp/db) | A WPDB wrapper and query builder library. |
 | [field-conditions](https://github.com/stellarwp/field-conditions) | A set of serializable classes for handling conditional field logic in PHP |
-| [installer](https://github.com/stellarwp/installer) | A library for installing / activating other plugins. |
+| [installer](https://github.com/stellarwp/installer) | Present a button for installing / activating other plugins. |
 | [models](https://github.com/stellarwp/models) | A library for creating data models |
-| [pipeline](https://github.com/stellarwp/pipeline) | A library that implements the Chain of Responsibility pattern. |
-| [schema](https://github.com/stellarwp/schema) | A library for simplifying the creation, update, and field modification of custom tables within WordPress. |
-| [superglobals](https://github.com/stellarwp/superglobals) | A library that handles access to superglobals. |
+| [pipeline](https://github.com/stellarwp/pipeline) | Implement a Chain of Responsibility pattern. |
+| [schema](https://github.com/stellarwp/schema) | Simplify the creation, update, and field modification of custom tables within WordPress. |
+| [superglobals](https://github.com/stellarwp/superglobals) | Handles access to superglobals. |
 | [validation](https://github.com/stellarwp/validation) | An end-to-end ready PHP validation library. |
 
 ## Tools
