@@ -1,5 +1,6 @@
-![StellarWP](https://github.com/stellarwp/.github/blob/main/images/stellarwp-logo.png#gh-light-mode-only)
-![StellarWP](https://github.com/stellarwp/.github/blob/main/images/stellarwp-logo-white.png#gh-dark-mode-only)
+<img src="https://github.com/stellarwp/.github/blob/main/images/stellarwp-logo.png#gh-light-mode-only" alt="StellarWP" width="650" />
+<img src="https://github.com/stellarwp/.github/blob/main/images/stellarwp-logo-white.png#gh-dark-mode-only" alt="StellarWP" width="650" />
+
 
 # :wave: Hi! We're StellarWP
 
