@@ -19,6 +19,7 @@ The most trusted plugins and people in WordPress.
 | [dates](https://github.com/stellarwp/dates) | Date utilities and classes. |
 | [db](https://github.com/stellarwp/db) | A WPDB wrapper and query builder library. |
 | [field-conditions](https://github.com/stellarwp/field-conditions) | A set of serializable classes for handling conditional field logic in PHP. |
+| [harbor](https://github.com/stellarwp/harbor) | License manager for plugins.
 | [installer](https://github.com/stellarwp/installer) | Present a button for installing / activating other plugins. |
 | [memoize](https://github.com/stellarwp/memoize) | A flexible memoization library for memory caching. |
 | [models](https://github.com/stellarwp/models) | A library for creating data models |
