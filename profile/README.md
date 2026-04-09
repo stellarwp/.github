@@ -32,5 +32,6 @@ The most trusted plugins and people in WordPress.
 
 | Name | Description |
 |---|---|
+| [changelogger](https://github.com/stellarwp/changelogger) | A TypeScript-based changelog management tool that works both as a GitHub Action and CLI tool.
 | [pup](https://github.com/stellarwp/pup) | A CLI utility for running project build processes, sanity checks, and zip packaging. |
 | [slic](https://github.com/stellarwp/slic) | A CLI command provides a containerized and consistent environment for running automated tests. |
