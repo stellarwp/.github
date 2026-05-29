@@ -4,7 +4,7 @@
 
 # :wave: Hi! We're Nexcess
 
-[Give](https://www.liquidweb.com/software/give/) | [Kadence](https://www.liquidweb.com/software/kadence/) | [LearnDash](https://www.liquidweb.com/software/learndash/) | [The Events Calendar](https://www.liquidweb.com/software/the-events-calendar/)
+[Kadence](https://www.liquidweb.com/software/kadence/) | [LearnDash](https://www.liquidweb.com/software/learndash/) | [The Events Calendar](https://www.liquidweb.com/software/the-events-calendar/) | [Give](https://www.liquidweb.com/software/give/)
 
 ## Our story
 
