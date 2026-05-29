@@ -8,7 +8,7 @@
 
 ## Our story
 
-These products started life as **StellarWP**, the family of WordPress plugins built and supported by **Liquid Web**. In 2025 the StellarWP brand was retired and its plugins — Kadence, The Events Calendar, LearnDash, and Give — were brought directly under Liquid Web. Today they're offered as **software by Nexcess**, the specialty-cloud brand that unifies Liquid Web's managed hosting and WordPress software under one name.
+These products started life as **StellarWP**, the family of WordPress plugins built and supported by **Liquid Web**. In 2026, the StellarWP brand was retired, and its plugins — Kadence, The Events Calendar, LearnDash, and Give — were brought directly under Liquid Web. Today they're offered as **software by Nexcess**, the specialty-cloud brand that unifies Liquid Web's managed hosting and WordPress software under one name.
 
 **StellarWP → Liquid Web → Nexcess.** Same trusted plugins and people, one home.
 
