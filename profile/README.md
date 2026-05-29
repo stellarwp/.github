@@ -1,12 +1,16 @@
-<img src="https://github.com/stellarwp/.github/blob/main/images/stellarwp-logo.png#gh-light-mode-only" alt="StellarWP" width="650" />
-<img src="https://github.com/stellarwp/.github/blob/main/images/stellarwp-logo-white.png#gh-dark-mode-only" alt="StellarWP" width="650" />
+<img src="https://github.com/stellarwp/.github/blob/main/images/nexcess-logo.png#gh-light-mode-only" alt="Nexcess" width="650" />
+<img src="https://github.com/stellarwp/.github/blob/main/images/nexcess-logo-white.png#gh-dark-mode-only" alt="Nexcess" width="650" />
 
 
-# :wave: Hi! We're StellarWP
+# :wave: Hi! We're Nexcess
 
-The most trusted plugins and people in WordPress.
+[Give](https://www.liquidweb.com/software/give/) | [Kadence](https://www.liquidweb.com/software/kadence/) | [LearnDash](https://www.liquidweb.com/software/learndash/) | [The Events Calendar](https://www.liquidweb.com/software/the-events-calendar/)
 
-[Give](https://givewp.com) | [IconicWP](https://iconicwp.com) | [Kadence](https://kadencewp.com) | [LearnDash](https://learndash.com) | [Orderable](https://orderable.com) | [Restrict Content Pro](https://restrictcontentpro.com) | [SolidWP](https://solidwp.com) | [The Events Calendar](https://theeventscalendar.com)
+## Our story
+
+These products started life as **StellarWP**, the family of WordPress plugins built and supported by **Liquid Web**. In 2025 the StellarWP brand was retired and its plugins — Kadence, The Events Calendar, LearnDash, and Give — were brought directly under Liquid Web. Today they're offered as **software by Nexcess**, the specialty-cloud brand that unifies Liquid Web's managed hosting and WordPress software under one name.
+
+**StellarWP → Liquid Web → Nexcess.** Same trusted plugins and people, one home.
 
 ## Libraries
 
